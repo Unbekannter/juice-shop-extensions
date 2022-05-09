@@ -12,8 +12,8 @@ ctf:
       name: Israel
       code: IL
     loginAdminChallenge:
-      name: Russian Federation
-      code: RU
+      name: France
+      code: FR
     loginJimChallenge:
       name: Honduras
       code: HN
@@ -63,8 +63,8 @@ ctf:
       name: Peru
       code: PE
     forgottenDevBackupChallenge:
-      name: Ukraine
-      code: UA
+      name: South Africa
+      code: ZA
     forgottenBackupChallenge:
       name: United States of America
       code: US
